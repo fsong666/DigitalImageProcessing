@@ -1,3 +1,11 @@
+**/build
+
+#cmake
+**/CMakeFiles
+*.cmake
+*Cache.txt
+*.txt.user
+
 # Prerequisites
 *.d
 
